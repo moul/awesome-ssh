@@ -2,6 +2,8 @@
 
 > A curated list of SSH [apps](#apps) and [libraries](#libraries).
 
+<h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
+
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
