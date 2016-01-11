@@ -133,6 +133,21 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * Ruby
   * [net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
 
+## Tutorials
+
+* [How to use SSH to Connect to a Remote Server](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu)
+
+## Documentation
+
+* [man page](http://linux.die.net/man/1/ssh)
+* [Specifications (OpenSSH)](http://www.openssh.com/specs.html)
+* [Wikipedia article](https://en.wikipedia.org/wiki/Secure_Shell)
+
+## Community
+
+* [StackOverflow](http://stackoverflow.com/questions/tagged/ssh)
+* [ServerFault](http://serverfault.com/questions/tagged/ssh)
+
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
