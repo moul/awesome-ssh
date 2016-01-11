@@ -1,7 +1,23 @@
 # Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-
 > A curated list of SSH resources.
+
+## Table of Contents
+
+- [Apps](#apps)
+  - [`.ssh/config`](#sshconfig)
+  - [Tools usint the SSH protocol](#tools-using-the-ssh-protocol)
+  - [Servers](#servers)
+  - [Network](#network)
+  - [Multiplexers](#multiplexers)
+  - [SSH Keys / Authentication](#ssh-keys--authentication)
+  - [SSH agent](#ssh-agent)
+  - [Tools](#tools)
+  - [Automation](#automation)
+  - [Web](#web)
+  - [Testing / Honeypots](#testing--honeypots)
+  - [Alternatives to SSH](#alternatives-to-ssh)
+- [Libraries](#libraries)
 
 ## Apps
 
@@ -42,6 +58,7 @@
 * [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (i.e: SSH + HTTPS)
 * [tund](https://github.com/aphyr/tund) - SSH reverse tunnel daemon
 * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn ssh session after network interruption.
+* [wssh](https://github.com/aluzzardi/wssh) - SSH to WebSockets Bridge
 
 ### Multiplexers
 
@@ -62,17 +79,13 @@
 * [ssh-ident](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with ssh.
 * [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh/tree/master/plugins/ssh-agent) - ssh-agent plugin for ZSH.
 
-### Gateways
-
-* [wssh](https://github.com/aluzzardi/wssh) - SSH to WebSockets Bridge
-
 ### Tools
 
 * [sshrc](https://github.com/Russell91/sshrc) - bring your .bashrc, .vimrc, etc. with you when you `ssh`
 
 ### Automation
 
-* [ansible](https://github.com/ansible/ansible)
+* [ansible](https://github.com/ansible/ansible) - App deployment, configuration management and orchestration over SSH.
 * [rtop](https://github.com/rapidloop/rtop) - Interactive, remote system monitoring tool based on SSH.
 * [DSH - Dancer's shell / distributed shell](https://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Wrapper for executing multiple remote shell commands from one command line.
 * [parallel-ssh](https://code.google.com/p/parallel-ssh/) - Provides parallel versions of OpenSSH and related tools.
