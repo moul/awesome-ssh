@@ -73,6 +73,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [tmux](https://tmux.github.io): Terminal multiplexer.
 * [clusterssh](https://github.com/duncs/clusterssh) - Cluster Admin Via SSH
 * [tmux-cssh](https://github.com/dennishafemann/tmux-cssh): TMUX with a "ClusterSSH"-like behaviour.
+* [tm](https://github.com/Ganneff/tm): tmux manager / helper
 * [i2cssh](https://github.com/wouterdebie/i2cssh) - csshX like ssh tool for iTerm2
 * [ClusterSSH](http://sourceforge.net/projects/clusterssh/) - Controls a number of xterm windows via a single graphical console.
 
