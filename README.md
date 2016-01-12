@@ -127,10 +127,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - built-in SSH client and server library.
   * [sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package.
   * [go-sshkit](https://github.com/shazow/go-sshkit) - Toolkit for building SSH servers and clients in Go.
-* Python
-  * [paramiko](https://github.com/paramiko/paramiko): Native Python SSHv2 protocol library.
 * Javascript/Node.js
   * [ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js
+* Python
+  * [paramiko](https://github.com/paramiko/paramiko): Native Python SSHv2 protocol library.
 * Ruby
   * [net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
 
