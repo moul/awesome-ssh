@@ -67,6 +67,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [tund](https://github.com/aphyr/tund) - SSH reverse tunnel daemon
 * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn ssh session after network interruption.
 * [wssh](https://github.com/aluzzardi/wssh) - SSH to WebSockets Bridge
+* [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) - sshfs docker volume plugin.
 
 ### Multiplexers
 
