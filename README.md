@@ -160,4 +160,4 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Manfred Touron](http://github.com/moul) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Manfred Touron](https://github.com/moul) has waived all copyright and related or neighboring rights to this work.
