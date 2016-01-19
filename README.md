@@ -26,6 +26,10 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Testing / Honeypots](#testing--honeypots)
   - [Alternatives to SSH](#alternatives-to-ssh)
 - [Libraries](#libraries)
+- [Tutorials](#tutorials)
+- [Security](#security)
+- [Documentation](#documentation)
+- [Community](#community)
 
 ## Apps
 
