@@ -1,6 +1,6 @@
 # Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of SSH [apps](#apps) and [libraries](#libraries).
+> A curated list of SSH [apps](#apps), [libraries](#libraries) and [resources](#resources).
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
@@ -26,10 +26,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   - [Testing / Honeypots](#testing--honeypots)
   - [Alternatives to SSH](#alternatives-to-ssh)
 - [Libraries](#libraries)
-- [Tutorials](#tutorials)
-- [Security](#security)
-- [Documentation](#documentation)
-- [Community](#community)
+- [Resources](#resources)
+  - [Tutorials](#tutorials)
+  - [Security](#security)
+  - [Documentation](#documentation)
+  - [Community](#community)
 
 ## Apps
 
@@ -141,23 +142,25 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * Ruby
   * [net-ssh](https://github.com/net-ssh/net-ssh) - Pure Ruby implementation of an SSH (protocol 2) client
 
-## Tutorials
+## Resources
+
+### Tutorials
 
 * [How to use SSH to Connect to a Remote Server](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu)
 
-## Security
+### Security
 
 * [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - Integer Overflow CVE 2016 077[7-8]
 * [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - sshd\_config for 6.7+, 5.3
 * [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening/tree/master/src/configuration/SSH/OpenSSH) - sshd\_config for 6.X
 
-## Documentation
+### Documentation
 
 * [man page](http://linux.die.net/man/1/ssh)
 * [Specifications (OpenSSH)](http://www.openssh.com/specs.html)
 * [Wikipedia article](https://en.wikipedia.org/wiki/Secure_Shell)
 
-## Community
+### Community
 
 * [StackOverflow](http://stackoverflow.com/questions/tagged/ssh)
 * [ServerFault](http://serverfault.com/questions/tagged/ssh)
