@@ -122,7 +122,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Alternatives to SSH
 
 * [GoTTY](https://github.com/yudai/gotty): Share your terminal as web application
-* [telnet](http://www.telnet.org/htm/faq.htm): A network protocol and an application used to connect to remote computers and issue commands.
+* [telnet](http://www.telnet.org/htm/faq.htm): An unencrypted network protocol and an application used to connect to remote computers and issue commands.
+* [rsh](https://en.wikipedia.org/wiki/Remote_Shell): An unencrypted network protocol and application used to connect to remote computers and issue commands.
 
 ## Libraries
 
