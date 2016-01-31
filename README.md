@@ -14,7 +14,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 - [Apps](#apps)
   - [`.ssh/config`](#sshconfig)
-  - [Tools usint the SSH protocol](#tools-using-the-ssh-protocol)
+  - [Tools using the SSH protocol](#tools-using-the-ssh-protocol)
   - [Servers](#servers)
   - [Network](#network)
   - [Multiplexers](#multiplexers)
