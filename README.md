@@ -88,6 +88,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [authy-ssh](https://github.com/authy/authy-ssh) - Easy two-factor authentication for ssh servers
 * [github-auth](https://github.com/chrishunt/github-auth) - SSH key management for GitHub users.
 * [cipherhub](https://github.com/substack/cipherhub) - Encrypt messages based on SSH public keys with easy import from GitHub
+* [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) - Guide to setup Slack notifications (can be modified for other services).
 
 ### SSH agent
 
