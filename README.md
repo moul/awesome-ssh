@@ -44,6 +44,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Tools using the SSH protocol
 
+* [ssh-chat](https://github.com/shazow/ssh-chat): Chat over SSH.
 * [scp](http://linux.die.net/man/1/scp): secure remote file copy utility over SSH.
 * [rsync](https://rsync.samba.org): fast incremental transfer utility that supports SSH.
 * [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol): file transfer protocol over SSH.
