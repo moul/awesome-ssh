@@ -136,6 +136,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - built-in SSH client and server library.
   * [sftp](https://github.com/pkg/sftp) - SFTP support for the go.crypto/ssh package.
   * [go-sshkit](https://github.com/shazow/go-sshkit) - Toolkit for building SSH servers and clients in Go.
+  * [Socker](https://github.com/cosiner/socker) - a library for Go to simplify the use of SSH
 * Java
   * [jsch](http://www.jcraft.com/jsch/) - pure java, BSD licensed, SSH2 client library.
 * Javascript/Node.js
