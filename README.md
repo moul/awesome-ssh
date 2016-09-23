@@ -58,6 +58,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [sshcommand](https://github.com/dokku/sshcommand) - Turn SSH into a thin client specifically for your app
 * [sshmuxd](https://github.com/joushou/sshmuxd) - sshmux frontend
 * [x84](https://github.com/jquast/x84) - A python telnet/ssh server for modern UTF-8 and classic cp437 network virtual terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity. http://x84.readthedocs.org/
+* [bastion-ssh](https://github.com/wcc526/bastion-ssh) - bastion host for SSH,which designed for protecting SSH resources.
 
 ### Network
 
@@ -159,7 +160,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - Integer Overflow CVE 2016 077[7-8]
 * [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - sshd\_config for 6.7+, 5.3
 * [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening/tree/master/src/configuration/SSH/OpenSSH) - sshd\_config for 6.X
-
+ 
 ### Documentation
 
 * [man page](http://linux.die.net/man/1/ssh)
