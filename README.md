@@ -58,6 +58,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [sshcommand](https://github.com/dokku/sshcommand) - Turn SSH into a thin client specifically for your app
 * [sshmuxd](https://github.com/joushou/sshmuxd) - sshmux frontend
 * [x84](https://github.com/jquast/x84) - A python telnet/ssh server for modern UTF-8 and classic cp437 network virtual terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity. http://x84.readthedocs.org/
+* [teleport](https://github.com/gravitational/teleport) - Modern SSH server for clusters and teams.
 
 ### Network
 
