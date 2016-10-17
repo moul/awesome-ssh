@@ -55,6 +55,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [whosthere](https://github.com/FiloSottile/whosthere): A ssh server that knows who you are. `$ ssh whoami.filippo.io`.
 * [sshfront](https://github.com/gliderlabs/sshfront): Programmable SSH frontend
 * [ssh-chat](https://github.com/shazow/ssh-chat) - Chat over SSH.
+* [ssh-audit](https://github.com/arthepsy/ssh-audit) is a tool for ssh server auditing. 
 * [sshcommand](https://github.com/dokku/sshcommand) - Turn SSH into a thin client specifically for your app
 * [sshmuxd](https://github.com/joushou/sshmuxd) - sshmux frontend
 * [x84](https://github.com/jquast/x84) - A python telnet/ssh server for modern UTF-8 and classic cp437 network virtual terminals. In spirit of classic software such as ami/x, teleguard, renegade, iniquity. http://x84.readthedocs.org/
