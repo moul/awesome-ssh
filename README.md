@@ -122,6 +122,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [cowrie](https://github.com/micheloosterhof/cowrie) - *SSH* Honeypot (based on kippo).
 * [sshmitm](http://linux.die.net/man/8/sshmitm) - *SSH* monkey-in-the-middle.
 * [ssh-audit](https://github.com/arthepsy/ssh-audit) - A tool for *SSH* server auditing.
+* [sshesame](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
 
 
 ### Alternatives to *SSH*
