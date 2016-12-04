@@ -158,6 +158,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [How to use *SSH* to Connect to a Remote Server](https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu)
 * [Best practices](https://blog.0xbadc0de.be/archives/300)
 * [Granting Temporary Access to Your Servers (Using Signed *SSH* Keys)](http://linux-audit.com/granting-temporary-access-to-servers-using-signed-ssh-keys/)
+* [How to SSH login without a password](https://www.rosehosting.com/blog/ssh-login-without-password-using-ssh-keys/)
 
 ### Security
 
