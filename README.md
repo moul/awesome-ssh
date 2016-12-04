@@ -114,6 +114,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [Secure Shell chrome extension](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo?hl=en)
 * [GateOne](https://github.com/liftoff/GateOne) - HTML5-powered terminal emulator and *SSH* client.
 * [KeyBox](https://github.com/skavanagh/KeyBox) - Web-based *SSH* console that centrally manages administrative access to systems.
+* [Apache Guacamole](https://guacamole.incubator.apache.org/) - Apache Guacamole is a HTML5 based clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH. 
 
 ### Testing / Honeypots
 
