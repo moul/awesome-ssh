@@ -100,6 +100,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Tools
 
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your `.bashrc`, `.vimrc`, etc. with you when you `ssh`.
+* [sshc](https://github.com/troydm/sshc) - `ssh` connection manager for command line users.
 
 ### Automation
 
