@@ -99,6 +99,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ### Tools
 
+* [kyrat](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX.
 * [sshrc](https://github.com/Russell91/sshrc) - Bring your `.bashrc`, `.vimrc`, etc. with you when you `ssh`.
 
 ### Automation
