@@ -186,6 +186,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 ## License
 
-[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/) [![GuardRails badge](https://badges.production.guardrails.io/moul/awesome-ssh.svg)](https://www.guardrails.io)
 
 To the extent possible under law, [Manfred Touron](https://github.com/moul) has waived all copyright and related or neighboring rights to this work.
