@@ -8,7 +8,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
 
-**Check out my [blog](http://manfredtouron.tumblr.com) 🦄 or say *hi* on [Twitter](https://twitter.com/moul).**
+**Check out my [blog](https://manfred.life/) 🦄 or say *hi* on [Twitter](https://twitter.com/moul).**
 
 ## Table of Contents
 
