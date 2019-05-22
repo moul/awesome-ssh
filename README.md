@@ -143,7 +143,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 * C/C++
   * [libssh](https://www.libssh.org) - The *SSH* library.
-  * [substack/libssh](https://github.com/substack/libssh) [![stars](https://img.shields.io/github/stars/substack/libssh.svg?style=social&label=stars)](https://github.com/substack/libssh) - Multiplatform C library implementing the SSHv2 and SSHv1 protocol on client and server side.
 * Golang
   * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - Built-in *SSH* client and server library.
   * [sftp](https://github.com/pkg/sftp) [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social&label=stars)](https://github.com/pkg/sftp) - *SFTP* support for the go.crypto/ssh package.
