@@ -165,6 +165,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [Best practices](https://blog.0xbadc0de.be/archives/300)
 * [Granting Temporary Access to Your Servers (Using Signed *SSH* Keys)](http://linux-audit.com/granting-temporary-access-to-servers-using-signed-ssh-keys/)
 * [How to SSH login without a password](https://www.rosehosting.com/blog/ssh-login-without-password-using-ssh-keys/)
+* [Gist: SSH Recipes](https://gist.github.com/mjalajel/beaa91a5f8d04ebb464c2c28da01406a) - Collection of recipes for writing awesome ssh config files.
 
 ### Security
 
