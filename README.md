@@ -151,6 +151,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   * [sftp](https://github.com/pkg/sftp) [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social&label=stars)](https://github.com/pkg/sftp) - *SFTP* support for the go.crypto/ssh package.
   * [go-sshkit](https://github.com/shazow/go-sshkit) [![stars](https://img.shields.io/github/stars/shazow/go-sshkit.svg?style=social&label=stars)](https://github.com/shazow/go-sshkit) - Toolkit for building *SSH* servers and clients in Go.
   * [Socker](https://github.com/cosiner/socker) [![stars](https://img.shields.io/github/stars/cosiner/socker.svg?style=social&label=stars)](https://github.com/cosiner/socker) - Library for Go to simplify the use of *SSH*.
+  * [go-sshkeys](https://github.com/moul/go-sshkeys) - Golang SSH Keys manipulation library
 * Java
   * [jsch](http://www.jcraft.com/jsch/) - Pure *java*, *BSD* licensed, *SSH2* client library.
 * Javascript/Node.js
