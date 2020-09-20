@@ -100,7 +100,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [github-keygen](https://github.com/dolmen/github-keygen) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)](https://github.com/dolmen/github-keygen) - Easy creation of secure *SSH* configuration for your GitHub account(s).
 * [kr](https://github.com/KryptCo/kr) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)](https://github.com/KryptCo/kr) - Kr agent that route access request to the paired mobile phone where Kryptonite is installed.
 * [ServerAuth](https://serverauth.com) - Automatically sync SSH access across servers
-* [ssh-inscribe](https://github.com/aakso/ssh-inscribe) - SSH key certificate creation and management tool.
+* [ssh-inscribe](https://github.com/aakso/ssh-inscribe) - SSH key certificate creation and management server/client tools.
 
 ### *SSH* agent
 
