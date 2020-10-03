@@ -147,6 +147,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 * [PuTTY](https://putty.org) - a free implementation of SSH and Telnet for Windows and Unix platforms
 * [MobaXterm](https://mobaxterm.mobatek.net/) - an enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+* [Muon/Snowflake](https://github.com/subhra74/snowflake) - a graphical SSH client written in Java
 
 ### Alternatives to *SSH*
 
