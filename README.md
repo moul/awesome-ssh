@@ -132,6 +132,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [KeyBox](https://github.com/skavanagh/KeyBox) [![stars](https://img.shields.io/github/stars/skavanagh/KeyBox.svg?style=social&label=stars)](https://github.com/skavanagh/KeyBox) - Web-based *SSH* console that centrally manages administrative access to systems.
 * [Apache Guacamole](https://guacamole.incubator.apache.org/) - Apache Guacamole is a HTML5 based clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 * [SSHmon](https://github.com/hpello/sshmon) [![stars](https://img.shields.io/github/stars/hpello/sshmon.svg?style=social&label=stars)](https://github.com/hpello/sshmon) - Real-time GUI to monitor SSH connections and establish port forwardings.
+* [WebTerminal](https://github.com/jimmy201602/webterminal) - Webterminal implemented by django. This project focus on DevOps and Continuous Delivery. For now it support almost 90% remote management protocol such as vnc, ssh,rdp,telnet,sftp… It support a possiblity to monitor and recorded user action when user use this project to manage their server
 
 ### Testing / Honeypots
 
