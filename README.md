@@ -100,6 +100,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [github-keygen](https://github.com/dolmen/github-keygen) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)](https://github.com/dolmen/github-keygen) - Easy creation of secure *SSH* configuration for your GitHub account(s).
 * [kr](https://github.com/KryptCo/kr) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)](https://github.com/KryptCo/kr) - Kr agent that route access request to the paired mobile phone where Kryptonite is installed.
 * [ServerAuth](https://serverauth.com) - Automatically sync SSH access across servers
+* [HIBA](https://github.com/google/hiba) [![stars](https://img.shields.io/github/stars/google/hiba.svg?style=social&label=stars)](https://github.com/google/hiba) - Central management of access to a fleet of machines without pushing authorized_users files.
 
 ### *SSH* agent
 
