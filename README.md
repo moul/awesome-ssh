@@ -144,6 +144,11 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [sshesame](https://github.com/jaksi/sshesame) [![stars](https://img.shields.io/github/stars/jaksi/sshesame.svg?style=social&label=stars)](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
 
 
+### Clients / Graphical User Interfaces (GUIs)
+
+* [PuTTY](https://putty.org) - a free implementation of SSH and Telnet for Windows and Unix platforms
+* [MobaXterm](https://mobaxterm.mobatek.net/) - an enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more
+
 ### Alternatives to *SSH*
 
 * [GoTTY](https://github.com/yudai/gotty) [![stars](https://img.shields.io/github/stars/yudai/gotty.svg?style=social&label=stars)](https://github.com/yudai/gotty) - Share your terminal as web application.
