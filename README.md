@@ -125,6 +125,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [DSH - Dancer's shell / distributed shell](https://www.netfort.gr.jp/~dancer/software/dsh.html.en) - Wrapper for executing multiple remote shell commands from one command line.
 * [parallel-ssh](https://github.com/ParallelSSH/parallel-ssh) [![stars](https://img.shields.io/github/stars/ParallelSSH/parallel-ssh.svg?style=social&label=stars)](https://github.com/ParallelSSH/parallel-ssh) - Provides parallel versions of OpenSSH and related tools.
 * [SSH Power Tool](https://code.google.com/p/sshpt/) - Execute commands and upload files to many servers simultaneously without using pre-shared keys.
+* [Steinbeck](https://github.com/EnderUNIX/Steinbeck) - Steinbeck easifies a simple job in a secure way. It can be used to run shell scripts on a (linux)unix box with SSH server during which it can check on-going progress and grab the end result.
 
 ### Web
 
