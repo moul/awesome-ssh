@@ -80,6 +80,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [quicssh](https://github.com/moul/quicssh) [![stars](https://img.shields.io/github/stars/moul/quicssh.svg?style=social&label=stars)](https://github.com/moul/quicssh) - QUIC proxy for SSH
 * [sshpiper](https://github.com/tg123/sshpiper) [![stars](https://img.shields.io/github/stars/tg123/sshpiper.svg?style=social&label=stars)](https://github.com/tg123/sshpiper) - The missing reverse proxy for ssh scp.
 * [sshhub](https://sshhub.de) - Web Service: access your SSH servers behind firewalls (ssh-teamviewer).
+* [boringproxy](https://github.com/boringproxy/boringproxy) [![stars](https://img.shields.io/github/stars/boringproxy/boringproxy.svg?style=social&label=stars)](https://github.com/boringproxy/boringproxy) - Simple tunneling reverse proxy with a fast web UI and auto HTTPS. Designed for self-hosters.
 
 ### Multiplexers
 
