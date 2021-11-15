@@ -169,6 +169,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
   * [paramiko](https://github.com/paramiko/paramiko) [![stars](https://img.shields.io/github/stars/paramiko/paramiko.svg?style=social&label=stars)](https://github.com/paramiko/paramiko) - Native *Python* *SSHv2* protocol library.
 * Ruby
   * [net-ssh](https://github.com/net-ssh/net-ssh) [![stars](https://img.shields.io/github/stars/net-ssh/net-ssh.svg?style=social&label=stars)](https://github.com/net-ssh/net-ssh) - Pure *Ruby* implementation of an *SSH* (protocol 2) client.
+* PHP
+  * [phpseclib](https://phpseclib.com/) [![stars](https://img.shields.io/github/stars/phpseclib/phpseclib.svg?style=social&label=stars)](https://github.com/phpseclib/phpseclib) - Pure *PHP* implementation of an *SSH* (protocol 2) client.
 
 ## Resources
 
