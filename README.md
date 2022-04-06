@@ -107,6 +107,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [ssh-ident](https://github.com/ccontavalli/ssh-ident) [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social&label=stars)](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with `ssh`.
 * [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social&label=stars)](https://github.com/robbyrussell/oh-my-zsh) - `ssh-agent` plugin for `zsh`.
 * [sshecret](https://github.com/thcipriani/sshecret) - Automatically create and manage multiple agents for multiple keys.
+* [SK SSH Agent](https://github.com/tetractic/SK-SSH-Agent) - An SSH agent that supports using FIDO/U2F security keys with PuTTY and OpenSSH for Windows.
 
 ### Tools
 
