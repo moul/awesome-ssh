@@ -48,6 +48,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [rsync](https://rsync.samba.org) - Fast incremental transfer utility that supports *SSH*.
 * [sftp](https://en.wikipedia.org/wiki/SSH_File_Transfer_Protocol) - File transfer protocol over *SSH*.
 * [curl](http://curl.haxx.se) - Command line tool and library to transfer data (support `sftp`).
+* [ShellLeap](https://github.com/shareefsakk2/shellleap) [![stars](https://img.shields.io/github/stars/shareefsakk2/shellleap.svg?style=social&label=stars)](https://github.com/shareefsakk2/shellleap) - Premium, secure cross-platform SSH & SFTP client with AES-256-GCM vault.
 
 ### Servers
 
