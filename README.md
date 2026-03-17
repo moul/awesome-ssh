@@ -101,6 +101,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [kr](https://github.com/KryptCo/kr) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)](https://github.com/KryptCo/kr) - Kr agent that route access request to the paired mobile phone where Kryptonite is installed.
 * [ServerAuth](https://serverauth.com) - Automatically sync SSH access across servers
 * [HIBA](https://github.com/google/hiba) [![stars](https://img.shields.io/github/stars/google/hiba.svg?style=social&label=stars)](https://github.com/google/hiba) - Central management of access to a fleet of machines without pushing authorized_users files.
+* [sshdo](https://github.com/raforg/sshdo) [![stars](https://img.shields.io/github/stars/raforg/sshdo.svg?style=social&label=stars)](https://github.com/raforg/sshdo) - Controls which commands may be executed via incoming ssh.
 
 ### *SSH* agent
 
