@@ -10,6 +10,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 **Check out my [blog](https://manfred.life/) 🦄 or say *hi* on [Twitter](https://twitter.com/moul).**
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SSH workflow orchestration, automated remote server management, and multi-agent coordination. MIT licensed.
 ## Table of Contents
 
 - [Apps](#apps)
