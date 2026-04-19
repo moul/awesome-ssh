@@ -134,6 +134,13 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [Apache Guacamole](https://guacamole.incubator.apache.org/) - Apache Guacamole is a HTML5 based clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 * [SSHmon](https://github.com/hpello/sshmon) [![stars](https://img.shields.io/github/stars/hpello/sshmon.svg?style=social&label=stars)](https://github.com/hpello/sshmon) - Real-time GUI to monitor SSH connections and establish port forwardings.
 
+### Mobile
+
+* [Onepilot](https://onepilotapp.com) - Mobile SSH client and AI agent IDE for iOS. Deploy coding agents to remote servers from your phone.
+* [Termius](https://termius.com) - Cross-platform SSH client with credential sync and SFTP.
+* [Blink Shell](https://blink.sh) - Professional terminal for iOS with Mosh support.
+
+
 ### Testing / Honeypots
 
 * [ssh-hammer](https://github.com/shazow/ssh-hammer) [![stars](https://img.shields.io/github/stars/shazow/ssh-hammer.svg?style=social&label=stars)](https://github.com/shazow/ssh-hammer) - *SSH* load testing tool.
