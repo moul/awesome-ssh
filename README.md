@@ -62,6 +62,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [x84](https://github.com/jquast/x84) [![stars](https://img.shields.io/github/stars/jquast/x84.svg?style=social&label=stars)](https://github.com/jquast/x84) - A *python* `telnet`/`ssh` server for modern *UTF-8* and classic *cp437* network virtual terminals. In spirit of classic software such as *ami/x*, *teleguard*, *renegade*, *iniquity*.
 * [teleport](https://github.com/gravitational/teleport) [![stars](https://img.shields.io/github/stars/gravitational/teleport.svg?style=social&label=stars)](https://github.com/gravitational/teleport) - Modern *SSH* server for clusters and teams.
 * [ShellHub](https://github.com/shellhub-io/shellhub) [![stars](https://img.shields.io/github/stars/shellhub-io/shellhub.svg?style=social&label=stars)](https://github.com/shellhub-io/shellhub) - A *SSH* gateway for remotely accessing any Linux device behind firewall and NAT.
+* [cmux-ssh-here](https://github.com/viktor-silakov/cmux-ssh-here) [![stars](https://img.shields.io/github/stars/viktor-silakov/cmux-ssh-here.svg?style=social&label=stars)](https://github.com/viktor-silakov/cmux-ssh-here) - Disposable, token-authenticated *SSH* server started with a single `npx` command; prints a *cmux* deep link and `ssh://` QR codes, rotates the token every few minutes, and disappears on exit.
 
 ### Network
 
