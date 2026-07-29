@@ -117,6 +117,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars)](https://github.com/vaporup/ssh-tools) - check if host is reachable using ssh_config
 * [SSHPry v2](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social&label=stars)](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
 * [redial](https://github.com/taypo/redial) [![stars](https://img.shields.io/github/stars/taypo/redial?style=social)](https://github.com/taypo/redial) - Terminal Based SSH Session Manager for Unix Systems
+* [LSSHM](https://github.com/sannier3/lsshm) [![stars](https://img.shields.io/github/stars/sannier3/lsshm.svg?style=social&label=stars)](https://github.com/sannier3/lsshm) - Cross-platform local OpenSSH administration for server configuration, incoming access, client keys and remote hosts, with validation and automatic rollback.
 
 ### Automation
 
