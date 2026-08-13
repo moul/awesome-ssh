@@ -107,6 +107,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [ssh-ident](https://github.com/ccontavalli/ssh-ident) [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social&label=stars)](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with `ssh`.
 * [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social&label=stars)](https://github.com/robbyrussell/oh-my-zsh) - `ssh-agent` plugin for `zsh`.
 * [sshecret](https://github.com/thcipriani/sshecret) - Automatically create and manage multiple agents for multiple keys.
+* [fob](https://github.com/olivierzol/fob) [![stars](https://img.shields.io/github/stars/olivierzol/fob.svg?style=social&label=stars)](https://github.com/olivierzol/fob) - *MacOS* menu-bar agent keeping keys in the *Secure Enclave*, gated by *Touch ID*, with per-host pinning and git commit signing.
 
 ### Tools
 
