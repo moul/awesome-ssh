@@ -117,6 +117,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars)](https://github.com/vaporup/ssh-tools) - check if host is reachable using ssh_config
 * [SSHPry v2](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social&label=stars)](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
 * [redial](https://github.com/taypo/redial) [![stars](https://img.shields.io/github/stars/taypo/redial?style=social)](https://github.com/taypo/redial) - Terminal Based SSH Session Manager for Unix Systems
+* [Moku](https://github.com/wilsen0/moku) [![stars](https://img.shields.io/github/stars/wilsen0/moku?style=social)](https://github.com/wilsen0/moku) - Modern cross-platform SSH workspace that scans & resumes remote AI coding sessions (Claude Code, Codex) with a Rust terminal core.
 
 ### Automation
 
