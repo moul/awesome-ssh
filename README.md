@@ -118,6 +118,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [SSHPry v2](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social&label=stars)](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
 * [redial](https://github.com/taypo/redial) [![stars](https://img.shields.io/github/stars/taypo/redial?style=social)](https://github.com/taypo/redial) - Terminal Based SSH Session Manager for Unix Systems
 
+* [C-SSH](https://github.com/suiyuebaobao/C-SSH) - SSH and RDP client for Windows, Apple Silicon Mac, and Android with persistent sessions, monitoring, and file management.
+
 ### Automation
 
 * [Ansible](https://github.com/ansible/ansible) [![stars](https://img.shields.io/github/stars/ansible/ansible.svg?style=social&label=stars)](https://github.com/ansible/ansible) - App deployment, configuration management and orchestration over *SSH*.
