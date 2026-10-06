@@ -134,6 +134,8 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [Apache Guacamole](https://guacamole.incubator.apache.org/) - Apache Guacamole is a HTML5 based clientless remote desktop gateway. It supports standard protocols like VNC, RDP, and SSH.
 * [SSHmon](https://github.com/hpello/sshmon) [![stars](https://img.shields.io/github/stars/hpello/sshmon.svg?style=social&label=stars)](https://github.com/hpello/sshmon) - Real-time GUI to monitor SSH connections and establish port forwardings.
 
+* [EdgeSSH](https://github.com/aozorae/EdgeSSH) - Self-hosted SSH workspace on Cloudflare Workers with a browser terminal, SFTP file management, and process monitoring.
+
 ### Testing / Honeypots
 
 * [ssh-hammer](https://github.com/shazow/ssh-hammer) [![stars](https://img.shields.io/github/stars/shazow/ssh-hammer.svg?style=social&label=stars)](https://github.com/shazow/ssh-hammer) - *SSH* load testing tool.
