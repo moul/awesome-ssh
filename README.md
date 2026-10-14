@@ -117,6 +117,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars)](https://github.com/vaporup/ssh-tools) - check if host is reachable using ssh_config
 * [SSHPry v2](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social&label=stars)](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
 * [redial](https://github.com/taypo/redial) [![stars](https://img.shields.io/github/stars/taypo/redial?style=social)](https://github.com/taypo/redial) - Terminal Based SSH Session Manager for Unix Systems
+* [Termstead](https://github.com/pkhorenyan/termstead) [![stars](https://img.shields.io/github/stars/pkhorenyan/termstead?style=social)](https://github.com/pkhorenyan/termstead) - Native macOS SSH client with a session tree, jump hosts, split panes and SFTP, built on the system OpenSSH.
 
 ### Automation
 
