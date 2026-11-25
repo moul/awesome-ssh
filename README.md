@@ -185,6 +185,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [01/14/2016](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2016-0777) - Integer Overflow `CVE 2016 077[7-8]`.
 * [Security/Guidelines/OpenSSH - MozillaWiki](https://wiki.mozilla.org/Security/Guidelines/OpenSSH) - `sshd\_config` for `6.7+`, `5.3`.
 * [Applied-Crypto-Hardening](https://github.com/BetterCrypto/Applied-Crypto-Hardening) [![stars](https://img.shields.io/github/stars/BetterCrypto/Applied-Crypto-Hardening.svg?style=social&label=stars)](https://github.com/BetterCrypto/Applied-Crypto-Hardening) - `sshd\_config` for `6.X`
+* [SSH hardening: the checklist that actually matters](https://www.grep.tips/articles/ssh-hardening-checklist) - Four sshd_config changes, in order, for an internet-facing server.
 
 ### Documentation
 
